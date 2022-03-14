@@ -1,6 +1,6 @@
 # Moving-Balls
 
-This is a rather disgusting but elementary implementation of simulated balls moving on the screen made for the purpose of learning.
+This is a rather elementary implementation of simulated balls moving on the screen made for the purpose of learning.
 
 ## Usage
 
